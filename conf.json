@@ -1,0 +1,11 @@
+{
+    "DB_ENGINE": "mysql",
+    "DB_HOST": "127.0.0.1",
+    "DB_PORT": 3306,
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "",
+    "LOGGING_LEVEL": "3",
+    "EXCLUSIVE_FILES_PER_USER": 5,
+    "DB_DATABASE": "version_control",
+    "FILE_SIZE_LIMIT": 1024
+}
